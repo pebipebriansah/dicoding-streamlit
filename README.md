@@ -1,4 +1,4 @@
-# Air Quality Analysis Project: Wanshouxigong Station
+# Air Quality Analysis Project: Wanliu Station
 
 ## Live Dashboard
 https://pebi-pebriansah-airquality.streamlit.app/
@@ -10,7 +10,7 @@ This project, submitted for the "Learn Data Analysis with Python" course from Di
 This analysis serves as a course submission for "Learn Data Analysis with Python" offered by Dicoding. It demonstrates the application of data analysis techniques and visualization skills learned in the course.
 
 ## Table of Contents
-- [Air Quality Analysis Project: Wanshouxigong Station](#air-quality-analysis-project-wanshouxigong-station)
+- [Air Quality Analysis Project: Wanliu Station](#air-quality-analysis-project-wanliu-station)
   - [Live Dashboard](#live-dashboard)
   - [Project Overview](#project-overview)
   - [Course Submission](#course-submission)
@@ -30,7 +30,7 @@ This analysis serves as a course submission for "Learn Data Analysis with Python
 The goal of this project is to analyze air quality data, specifically PM2.5 pollutant levels, and understand their relationship with various environmental factors. The analysis includes identifying trends, seasonal patterns, and correlations with weather conditions.
 
 ## Data Source
-The dataset used in this project includes air quality measurements from the Wanshouxigong station, with a focus on PM2.5 levels and other related environmental data.
+The dataset used in this project includes air quality measurements from the Wanliu station, with a focus on PM2.5 levels and other related environmental data.
 
 ## Libraries Used
 - altair==5.5.0
