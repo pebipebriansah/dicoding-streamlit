@@ -11,7 +11,7 @@ import statsmodels.api as sm
 st.set_page_config(page_title="Air Quality Analysis Dashboard")
 
 # Load dataset
-data = pd.read_csv('PRSA_Data_Wanliu_20130301-20170228.csv')
+data = pd.read_csv('./data/PRSA_Data_Wanliu_20130301-20170228.csv')
 
 # Title of the dashboard
 st.title('Air Quality Analysis Dashboard: Wanshouxigong Station')
